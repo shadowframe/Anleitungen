@@ -8,8 +8,9 @@ CTRL+B c
 CTRL+B  z
 // Fenster wechseln
 CTRL+B <window number>
-//
-
-//
+// Session killen
+tmux kill-session -t 1 
+// xSessions anzeigen
+tmux ls 
 
 //
