@@ -1,7 +1,10 @@
 settings for studio code after brew install the cli:
 https://www.arduino.cc/pro/cli
 
-https://github.com/shadowframe/Anleitungen/blob/master/Bildschirmfoto%202022-02-03%20um%2010.59.57.png?raw=true
+![alt text](https://github.com/shadowframe/Anleitungen/blob/master/Bildschirmfoto%202022-02-03%20um%2010.59.57.png?raw=true)
+
+
+
 
 #include "DHT.h"
 don t use the dh 21, 11 from the other libarys...
